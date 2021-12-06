@@ -1,0 +1,15 @@
+
+ ||||||| ||||
+      ||
+  |||||| |||
+      ||
+      || ||||
+    FactEngine
+
+
+/\oui/\
+/\non/\
+[n] : Nouvelle partie
+[c] : Charger
+[a] : Charger la sauvegarde automatique
+[q] : Quitter                                                                                               Open source

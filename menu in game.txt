@@ -1,0 +1,14 @@
+
+ ||||||| ||||
+      ||
+  |||||| |||
+      ||
+      || ||||
+    FactEngine
+/\non/\
+[r] : Reprendre
+[e] : Enregistrer
+[c] : Charger
+[a] : Charger la sauvegarde automatique
+[o] : Option
+[q] : Quitter                                                                                               Open source

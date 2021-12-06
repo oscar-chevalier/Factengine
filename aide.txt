@@ -1,0 +1,18 @@
+AIDE
+
+ Actions :
+  [z, q, s, d] : deplacements
+  [e]          : enregistrer
+  [i]          : inventaire
+  [m]          : menu (charger, option, quitter)
+
+ Objets :
+  [P]          : porte
+  [^]          : escalier vers le haut
+  [v]          : escalier vers le bas
+  [$]          : personne
+  [E]          : enigme
+  [?]	       : machines (coffre, panneau)
+
+ Astuces :
+  Ctrl + mol   : Zoom de la fenetre
